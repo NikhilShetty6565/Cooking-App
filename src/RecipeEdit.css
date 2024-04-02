@@ -1,0 +1,60 @@
+/* Styling for the recipe-edit-container */
+.recipe-edit-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  /* Styling for the heading */
+  .recipe-edit-container h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Styling for the form */
+  .recipe-edit-container form {
+    display: grid;
+    gap: 10px;
+  }
+  
+  /* Styling for the label */
+  .recipe-edit-container label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  /* Styling for the input and textarea fields */
+  .recipe-edit-container input,
+  .recipe-edit-container textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  /* Styling for the Save button */
+  .recipe-edit-container button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Styling for the error message */
+  .recipe-edit-container .error-message {
+    color: #f44336;
+    font-size: 16px;
+  }
+  
+  /* Styling for the Loading message */
+  .recipe-edit-container .loading-message {
+    font-size: 16px;
+    text-align: center;
+  }
+  

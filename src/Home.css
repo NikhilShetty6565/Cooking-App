@@ -1,0 +1,101 @@
+/*body{
+    background-image: url();
+    background-size: cover;
+    background-repeat: no-repeat;
+ 
+}
+h2{
+
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+margin: 100px;
+}
+nav{
+    background-color: rgb(49, 48, 48);
+  height: 70px;
+
+}
+.text-center{
+    padding-top: 150px;
+}
+.link{
+    padding-top: 15px;
+   
+    text-align: center;
+    align-items: center;
+}
+.link1{
+    padding-top: 10px;
+    color: rgb(244, 245, 247);
+    text-decoration: none;
+    font-weight: bolder;
+    margin: 25px;
+   
+}*/
+/* Home.css */
+
+.header {
+    background-color: azure;
+    background-position: center;
+    
+  }
+  
+  .link {
+    display: flex;
+    justify-content: space-between;
+    background-color: #333;
+    padding: 10px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+  }
+  
+  .link1 {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  .link1:hover {
+    text-decoration: underline;
+  }
+  
+  .po {
+    
+    padding-top: 178px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom:  178px;
+    background-image: url("https://img.freepik.com/free-photo/vintage-old-rustic-cutlery-dark_1220-4886.jpg?size=626&ext=jpg&ga=GA1.1.2041716535.1690199391&semt=ais");
+
+    
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  
+  .text-center {
+    text-align: center;
+    margin-top: 30px;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  h2 {
+    color: #444;
+  }
+  
+  h4 {
+    color: #666;
+    line-height: 1.5;
+  }
+  
+  p {
+    color: #777;
+  }
+  

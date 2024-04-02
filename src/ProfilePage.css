@@ -1,0 +1,275 @@
+ /*.edit-mode input {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    padding: 0px;
+    margin-bottom: 10px;
+  }*/
+  /*.edit-btns {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+  }*/
+/*
+  body {
+    font-family: Arial, sans-serif;
+    background-image: url('./Image/Background.jpg'); 
+    background-position: center;
+    
+  }
+  .profile-photo img {
+  width: 130px;
+  height: 130px;
+  align-items: center;
+  align-content: center;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 0px;
+  margin-left: 465px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+
+
+}
+  
+  
+  .container125 {
+    
+    
+    margin: 10 auto;
+  
+    padding-top: 0px;
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-bottom: 217px;
+    border: 1px solid #fefbfb;
+    background-color: rgb(202, 206, 206);
+    background-image: "https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2";
+    
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+  }
+  
+ 
+  .profile-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    
+  }
+  
+  .profile-header h2 {
+    margin: 0;
+    color:rgb(255, 0, 30);
+  }
+  
+  .profile-header button {
+    background-color: #4caf50;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+ 
+
+  .edit-mode{
+    margin-top: 0px;
+  }
+
+  .form-title9 {
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 10px;
+  }
+  .form-title8{
+    text-align: center;
+    text-align: left;
+    margin: 0auto;
+    margin-left: 450px;
+    width: 900px;
+ 
+  }
+  
+  .register-button1 {
+    background-color: #28a745;
+    color: #fff;
+    margin-left:0px;
+    padding-left: 0%;
+    padding-top: 0px;
+    margin-top: 5px;
+    justify-content: flex-start;
+  }
+  .register-button2 {
+    background-color: #28a745;
+    color: #fff;
+    margin-left:0px;
+    padding-right: 0%;
+    justify-content: flex-end;
+  }
+  .register-button20{
+    margin-left: 500px;
+    background-color: #28a745;
+  color: #fff;
+  size: 50px;
+  padding: 10px;
+      }
+  .background12{
+    
+    background-color: rgb(28, 178, 178);
+    margin-bottom: 0px;
+    padding-bottom: 270px;
+    margin-bottom: -190px;
+    margin-left: -168px;
+    
+    
+    
+  }
+  
+.back{
+
+}
+  
+  
+  .edit-btns button {
+    margin-right: 10px;
+  }
+  
+
+  p {
+    margin-bottom: 10px;
+    color:rgb(24, 24, 23); 
+  }
+
+*/
+/* ProfilePage.css */
+.container125 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+.button123 {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  padding: 8px 16px;
+  font-size: 16px;
+  background-color: #f44336;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.edit-mode,
+.background12 {
+  width: 400px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.form-title9,
+.form-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.error-message {
+  color: red;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input,
+select {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+select {
+  cursor: pointer;
+}
+
+.edit-btns {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.register-button1,
+.register-button2,
+.register-button20 {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.register-button1 {
+  background-color: #4caf50;
+  color: white;
+}
+
+.register-button2 {
+  background-color: #f44336;
+  color: white;
+}
+
+.register-button20 {
+  background-color: green;
+  color: white;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.background12 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #333;
+  color: white;
+  padding: 30px;
+}
+
+.background12 img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.back {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* Responsive CSS - Adjust based on your design requirements */
+@media screen and (max-width: 480px) {
+  .edit-mode,
+  .background12 {
+    width: 100%;
+    padding: 10px;
+  }
+}
+
+/* Add more media queries for other screen sizes if needed */

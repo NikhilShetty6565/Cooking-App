@@ -1,0 +1,193 @@
+
+.body{
+  background-color: azure;
+}
+.recipe-container{
+  padding-top: 16px;
+  background-color: azure;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.find0 {
+  text-align: center;
+}
+
+.note1 {
+  color: rgb(18, 237, 40);
+  font-size: small;
+  text-align: center;
+  margin-top: 10px;
+  width: 1150px;
+}
+
+
+.input-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+
+.input-container input
+.input-container select {
+  margin-right: 10px;
+}
+
+
+.mod {
+  width: 100%;
+  max-width: 400px;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+
+.card-list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); 
+  gap: 20px;
+  margin-top: 30px;
+}
+.card {
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 20px;
+}
+
+
+.card__title {
+  margin: 0;
+  padding: 10px 0;
+  font-size: 24px;
+}
+
+.card__image img {
+  width: 50%;
+  height: auto;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+.card__author h5 {
+  margin: 0;
+  padding: 10px 0;
+  font-size: 16px;
+  color: #333;
+}
+
+.card__description details {
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.card__description summary {
+  color: green;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.card__description p {
+  color: #333;
+}
+
+.card__ingredients details {
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.card__ingredients summary {
+  color: green;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.card__ingredients p {
+  color: #333;
+}
+
+.card__like {
+  color: red;
+  margin-top: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  background: none;
+  border: none;
+  outline: none;
+}
+
+.card__like span {
+  color: #333;
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: 5px;
+}
+.not-found {
+  color: red;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.find {
+  text-align: center;
+}
+.note1{
+  text-align: center;
+} 
+.input-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+
+.input-container input,
+.input-container select {
+  margin-right: 10px;
+}
+select {
+  width: 100%;
+  max-width: 200px;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: white;
+}
+.note1 {
+  color: rgb(18, 237, 40);
+  font-size: small;
+  text-align: center;
+  margin-top: 10px;
+  width: 1150px;
+}
+
+.mod {
+  width: 100%;
+  max-width: 400px;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.no-results-message {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  font-size: 18px;
+  color: #ff0000;
+  font-weight: bold;
+
+  padding-bottom: 183px;
+}

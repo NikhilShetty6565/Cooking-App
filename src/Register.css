@@ -1,0 +1,103 @@
+body {
+   
+    background-image: url('./Image/Background.jpg');
+    background-position: center;
+  }
+  
+  .login-form-container1 {
+    display: flex; /* Use flexbox to create a two-column layout */
+    flex-wrap: wrap; /* Allow items to wrap to the next line if the container width is smaller */
+    max-width: 800px; /* Set the maximum width for the form container */
+    margin: 100px auto; /* Center the form container */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .form-title1 {
+    width: 100%; /* Set the title to span the full width of the container */
+    text-align: center;
+    margin-top: 0;
+  }
+  
+  .login-form1 {
+    display: flex; /* Use flexbox to arrange form groups side by side */
+    flex-wrap: wrap; /* Allow form groups to wrap to the next line if the container width is smaller */
+    width: 100%; /* Set the form to span the full width of the container */
+  }
+  
+  .form-group1 {
+    flex-basis: 50%; /* Set each form group to occupy 50% of the available width */
+    padding: 0 10px; /* Add some padding between form groups */
+    box-sizing: border-box; /* Include padding in the width calculation */
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input[type="email"],
+  input[type="password"],
+  input[type="text"],
+  input[type="file"],
+  input[type="age"],
+  input[type="number"],
+  select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box; /* Include padding in the width calculation */
+  }
+  
+  .error-message {
+    color: red;
+    margin: 0 auto;
+  }
+  
+  .login-button,
+  .register-button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .login-button {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .login-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .register-button {
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  .register-button:hover {
+    background-color: #1b8621;
+  }
+  
+  .options {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 6px;
+  }
+  
+  a {
+    text-decoration: underline;
+    color: #007bff;
+    cursor: pointer;
+  }
+  
+  a:hover {
+    color: #b30006;
+  }
+
+ 

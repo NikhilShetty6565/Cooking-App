@@ -1,0 +1,481 @@
+{
+  "users": [
+    {
+      "email": "nikhilshetty665@gmail.com",
+      "password": "$2a$10$P4s9yfORIjsEYxSZWX9kLuF9aiySlBEYfi84MYu8.yHRBg7Gi1TJe",
+      "name": "Nikhil Shetty",
+      "number": "6362692898",
+      "photo": "C:\\fakepath\\(2567974)-ps9.pdf",
+      "food": "Veg",
+      "confirmpassword": "1234",
+      "id": 1
+    },
+    {
+      "email": "fyyf@rgfert",
+      "password": "$2a$10$IaIlHuDc5RMVPaCwPaf08eYV3QiWSBe60Cx4oWd7q1aopP.YG/TN6",
+      "name": "raj",
+      "number": "9916935690",
+      "photo": "C:\\fakepath\\(2567974)-ps10.pdf",
+      "food": "veg",
+      "confirmpassword": "7777",
+      "id": 2,
+      "age": "15"
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "$2a$10$PSaC/IZrUrCt3m0HAvzne.wBIMTL3Iw4M9mRSp2.8oogSgnj4fbuy",
+      "name": "Mohan",
+      "number": "9876566666",
+      "photo": "C:\\fakepath\\exercise 5.sql",
+      "food": "Veg",
+      "confirmpassword": "0987",
+      "id": 3,
+      "age": "56"
+    },
+    {
+      "email": "nikhilshetty66885@gmail.com",
+      "password": "$2a$10$ADpUYSOIXu1yOiU1QIO7U.t.YX749fmuhEygJBAKQhi0PNOEUJXDG",
+      "name": "Nikhil Shetty",
+      "number": "6362692898",
+      "photo": "C:\\fakepath\\exercise 8.sql",
+      "food": "Both",
+      "age": "26",
+      "confirmpassword": "1234",
+      "id": 4
+    },
+    {
+      "email": "roshan@gmail.com",
+      "password": "$2a$10$ScET7RfQTu9bZcnOpjSL5OahwhktQH8CWswH5FNt9KQSBpp61FukC",
+      "name": "Roshan Rathode",
+      "number": "1234567890",
+      "photo": "C:\\fakepath\\(2567974)-ps4.pdf",
+      "food": "Non-Veg",
+      "confirmpassword": "9090",
+      "id": 5,
+      "age": "99"
+    },
+    {
+      "email": "sridhar@gmail.com",
+      "password": "$2a$10$i33LObEmb81gy7/RKHHXlOkG1oJ4yzHsT4VMtlyoVgca1rYe2vgNG",
+      "name": "shridhar ",
+      "number": "9916935690",
+      "age": "99",
+      "photo": "https://s-media-cache-ak0.pinimg.com/736x/35/da/3f/35da3f74621a36575e91ecf4b84e13d7.jpg",
+      "food": "Non-Veg",
+      "confirmpassword": "9090",
+      "tel": "3",
+      "id": 6
+    },
+    {
+      "email": "govinda@gmail.com",
+      "password": "$2a$10$POZOcGtdPN54J89Tn/CpDOEqXmV3bdpFbg.X5nySTU10PkchRWGa6",
+      "name": "Narayan",
+      "number": "9090909090",
+      "age": "90",
+      "photo": "https://s-media-cache-ak0.pinimg.com/736x/35/da/3f/35da3f74621a36575e91ecf4b84e13d7.jpg",
+      "food": "Both",
+      "confirmpassword": "12345",
+      "id": 7
+    },
+    {
+      "email": "virat12@gmail.com",
+      "password": "$2a$10$o6ggZVBaaiftiLbWYQ4mGuA//ePvOjUhH.SGKVQSzUHAg.9grMF1K",
+      "name": "Virat",
+      "number": "0909090909",
+      "age": "56",
+      "photo": "",
+      "food": "Veg",
+      "confirmpassword": "6565",
+      "id": 8
+    },
+    {
+      "email": "kiran@gmail.com",
+      "password": "$2a$10$b4kq50lkPrRtRtxKkSniQ.sSZM/kwymxbyNOzM4M4sSRKh5lIYHmW",
+      "name": "kiran",
+      "number": "9898989898",
+      "age": "45",
+      "photo": "",
+      "food": "Both",
+      "confirmpassword": "09876",
+      "id": 9
+    }
+  ],
+  "admin": [
+    {
+      "name": "Hardik",
+      "email": "hardik@gmail.com",
+      "number": "9999988888",
+      "age": "99",
+      "photo": "",
+      "food": "Non-Veg",
+      "password": "9009",
+      "confirmpassword": "9009",
+      "id": 1
+    }
+  ],
+  "recipies": [
+    {
+      "id": 2,
+      "type": "sweet",
+      "Name": "Cheesecake",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Ev6bThvjeZbap9egArz2mNcW6aFZGs11ng&usqp=CAU",
+      "Description": "This mouthwatering cheesecake is the perfect way to finish a large Sunday lunch, as it's incredibly light despite being made with chocolate",
+      "Author": "Sijith",
+      "likes": "",
+      "Ingredients": [
+        "50g butter, melted",
+        "150g digestive biscuit",
+        "50g amaretti biscuit",
+        "sunflower oil, for greasing",
+        "200g white chocolate, chopped",
+        "5 leaves gelatine",
+        "6 tbsp milk",
+        "500g tub ricotta",
+        "300ml pot double cream",
+        "50g icing sugar",
+        "2 large eggs, separated"
+      ],
+      "Method": [
+        "Heat oven to 200C/180C fan/gas 6. Melt the butter in a pan or microwave. Very finely crush the biscuits together, stir with the butter, then press very firmly into the base of a 20cm round loosebottomed cake tin. Bake for 6 mins. Cool, then wipe around the inside of the tin with a little oil on kitchen paper.",
+        "Soak the gelatine in water while you make the filling. Tip the chocolate into a bowl over a pan of simmering water, then add the milk. Gently heat until melted, then stir together. Squeeze the gelatine dry, add to the chocolate mixture and stir to dissolve.",
+        "Beat the ricotta, cream, sugar and egg yolks together. In a separate bowl, whisk the egg whites.",
+        "Stir the chocolate and ricotta mixtures together, then gently fold in the egg whites. Carefully pour onto the cooled biscuit base. Cover the tin with cling film, then chill until firm, preferably overnight.",
+        "To decorate, very generously top the cheesecake with the white chocolate curls, then remove from the tin, scatter with the pomegranate seeds and dust all over with icing sugar, if you like."
+      ]
+    },
+    {
+      "id": 3,
+      "type": "juice",
+      "Name": "Coconut & vanilla  cocktail",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0e8p4UPbnssFpPSbVD2R4RoR5sBvDi11tNA&usqp=CAU",
+      "Description": "A cocktail is a mixed drink typically made with a distilled liquor as its base ingredient that can be made using strawberries, vanilla extract, sugar, and water.",
+      "Author": "Chelsie Collins",
+      "likes": "",
+      "Ingredients": [
+        "100ml vanilla vodka",
+        "160ml coconut cream",
+        "1 tbsp crème de cacao",
+        "½ tsp grated nutmeg",
+        "2 chocolate wafers, to serve"
+      ],
+      "Method": [
+        "Put a few ice cubes in a cocktail shaker with the vanilla vodka, coconut cream, crème de cacao and grated nutmeg. Shake and strain into two mini milk bottles (see tip). Pop a rolled chocolate wafer in each."
+      ]
+    },
+    {
+      "id": 4,
+      "type": "veg",
+      "Name": "Vegan Christmas wreath",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKO5WVCgoTvVa9qHTZItKYNoFOyX0VIAcHGw&usqp=CAU",
+      "Description": "Advent and Christmas wreaths are constructed of evergreens to represent everlasting life brought through Jesus and the circular shape of the wreath represents ",
+      "Author": "Sophie Godwin",
+      "likes": "",
+      "Ingredients": [
+        "250g spinach",
+        "250g silken tofu",
+        "2 tbsp extra virgin olive oil, plus extra for brushing",
+        "50g pine nuts, toasted",
+        "generous grating nutmeg",
+        "2 fat garlic cloves, crushed",
+        "2 leaves chopped, fronds reserved for decorating",
+        "1 tbsp sour cherries"
+      ],
+      "Method": [
+        "Put the spinach in a colander, then pour over a kettle of boiling water and leave to wilt. Once cool, wring out the excess moisture using a clean tea towel, then chop the spinach and put in a large bowl. Stir in the tofu, oil, pine nuts, nutmeg, garlic, lemon zest, chopped dill and fruit until well combined, season generously and set aside.",
+        "On a well-floured surface, roll the pastry out into a 60 x 20cm rectangle. Leaving a 1cm border, spoon the spinach mixture along the length of the pastry, leaving a 2cm gap at both short ends. Fold in the two short ends to stop any of the filling coming out, then roll the pastry away from you to enclose the filling and create a long sausage shape. Join the two ends together to create a wreath shape and stick together with a little almond milk. Transfer the wreath to a baking tray lined with baking parchment and chill for 20 mins. Can be made up to this point a day in advance and kept covered in the fridge.",
+        "Heat oven to 200C/180C fan/gas 6. Using a sharp knife, cut slashes across the top of the wreath. Mix a little almond milk with some olive oil"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "sweet",
+      "Name": "Biscuit cupcakes",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeqhoKJywyESAOaYt6bBeH20yiACBGigbWHw&usqp=CAU",
+      "Description": "A cupcake is a small cake designed to serve one person, which may be baked in a small thin paper or aluminum cup",
+      "Author": "Lulu Grimes",
+      "likes": "",
+      "Ingredients": [
+        "175g self-raising flour",
+        "1 tsp baking powder",
+        "175g unsalted butter, softened",
+        "egg",
+        "175g golden caster sugar",
+        "2 tbsp milk, plus a splash",
+        "1 tsp vanilla extract",
+        "40g ground almonds"
+      ],
+      "Method": [
+        "Heat oven to 180C/160C fan/gas 4. Line a 12-hole muffin tin with three different coloured paper cases. Tip the flour, baking powder, unsalted butter, eggs, sugar, milk, vanilla and almonds into a large bowl and beat with an ",
+        " until smooth. Put a spoonful of batter into each paper case. Crumble a biscuit into each case – use one type of biscuit for each case colour, so you remember what’s in each one. Divide the remaining batter between the cases (they should be about half full), and bake for 20-25 mins or until golden and just firm. Leave to cool on a wire rack.",
+        "Make the icing by beating the butter until soft,"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "nonveg",
+      "Name": "Butter chicken",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpU-HwqgqqEEuKv6DczOSzNxJMZ0i81PvAUw&usqp=CAU",
+      "Description": "It is a type of curry made from chicken with a spiced tomato and butter (makhan) sauce. Its sauce is known for its rich texture",
+      "Author": "Ali jaffer",
+      "likes": "",
+      "Ingredients": [
+        "1 pound boneless, skinless chicken thighs, cut into roughly 1-inch cubes",
+        "1/4 cup full-fat plain yogurt",
+        "1 tbsp cr me de cacao",
+        "1 tablespoon ginger garlic paste",
+        "1 teaspoon ground coriander seed",
+        "1 teaspoon Kashmiri Lal Mirch",
+        "1 teaspoon cumin",
+        "Salt",
+        "to taste"
+      ],
+      "Method": [
+        "In a large bowl, season the chicken breast with salt, pepper, 1 teaspoon of chili powder, and the teaspoon of turmeric. Let sit for 15 minutes to marinate",
+        " Melt 2 tablespoons of butter in a large pot over medium heat. Brown the chicken, then remove from the pot.",
+        " Melt another 2 tablespoons of butter in the pot",
+        "then add the onion, garam masala",
+        "remaining teaspoon of chili powder",
+        "the cumin",
+        "ginger",
+        " garlic",
+        "cayenne",
+        "cinnamon",
+        "salt and pepper",
+        " Cook until fragrant",
+        " Add the tomato sauce and bring to a simmer",
+        " Add the water and cream and return to a simmer",
+        " Enjoy!"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "veg",
+      "Name": "Vegetable Salad",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdDfg8DMtu7mErDQqB3rVql-1wglrvHA4gsw&usqp=CAU",
+      "Description": "A salad is a dish consisting of mixed ingredients, frequently vegetables. They are typically served chilled or at room temperature",
+      "Author": "Amisha singh",
+      "likes": "",
+      "Ingredients": [
+        "2 yellow bell pepper",
+        "2 medium tomato",
+        " 5 sprigs rosemary leaves",
+        " 1 teaspoon mixed herbs",
+        " 1 teaspoon paprika",
+        "salt as required",
+        " 2 tablespoon extra virgin olive oil",
+        " 1 teaspoon black pepper",
+        " 1 tablespoon lemon juice",
+        " 1 onion"
+      ],
+      "Method": [
+        "Wash the veggies, drain the excess water and pat dry them. Next, on a chopping board cut the veggies assemble on a baking tray",
+        "Preparing spiced coating In the meantime",
+        "preheat the oven for sometime. Next",
+        "take a bowl and add in olive oil",
+        "paprika",
+        " salt mixed herbs",
+        "black pepper",
+        "lemon juice",
+        "whisk it all together and pour over the veggies",
+        "coat the veggies nicely in the dressing",
+        " Roast the veggies in an oven",
+        " Place the fresh rosemary leaves for more flavour and allow the veggies to bake and roast veggies for 10-15 minutes. Take them out and enjoy!"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "nonveg",
+      "Name": "Mutton curry",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9fOEom_Gr4LkAgZw-yDzhgFTJluvgw75AUA&usqp=CAU",
+      "Description": "Mutton curry (also referred to as kosha mangsho, lamb curry, or goat curry) is a dish that is prepared from goat meat (or sometimes lamb meat) and vegetables",
+      "Author": "Kunal kapoor",
+      "likes": "",
+      "Ingredients": [
+        "1 pound  mutton, cut into roughly 1-inch cubes",
+        "1/4 cup full-fat plain yogurt",
+        "1 tbsp crème de cacao",
+        "1 tablespoon ginger garlic paste",
+        "1 teaspoon ground coriander seed",
+        "1 teaspoon Kashmiri Lal Mirch",
+        "1 teaspoon cumin",
+        "Salt",
+        "to taste"
+      ],
+      "Method": [
+        "Add turmeric and 1 teaspoon salt to the mutton or lamb and rub all over. Set aside while you prep everything else",
+        "Heat oil in a pressure cooker (electric or stovetop) and saute fennel seeds, bayleaf, cinnamon, cardamom and cloves for a minute. Add two green chillies, onions and ginger garlic paste. Cook this for 10-12 minutes stirring occasionally till the onions are a deep brown",
+        " Add tomatoes, coriander powder, meat masala and the remaining salt and cook for 5 minutes till the tomatoes break down slightly."
+      ]
+    },
+    {
+      "id": 9,
+      "type": "nonveg",
+      "Name": "Chicken Biryani",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-c0mEvasgqpi3ZICiF5m4GI-Dpamtz9RzoQ&usqp=CAU",
+      "Description": "Biryani is a mixed rice dish originating among the Muslims of South Asia. It is made with Indian spices, vegetables, rice, and usually some type of meat (chicken, beef, goat, lamb, prawn, or fish)",
+      "Author": "Good Food",
+      "likes": "",
+      "Ingredients": [
+        "1 pound boneless, skinless chicken thighs, rice",
+        "2 Onions, chopped lengthwise",
+        " 5 to 6 Garlic cloves, finely chopped",
+        " 1 inch Ginger, finely chopped",
+        " 2 to 3 Green chilies, slit",
+        " 2 Tomatoes, diced",
+        " 6 to 8 strands Coriander leaves or cilantro",
+        " ¼ cup Mint leaves or Pudina, loosely packed",
+        " 1 ½ tablespoon Oil",
+        " 1-inch Cinnamon stick (Dalchini)",
+        " 3 to 4 Cardamom pods (Elaichi)",
+        " 3 to 4 Cloves (Lavang)",
+        " 2 Bay leaf (Tej Patta)"
+      ],
+      "Method": [
+        "To marinate the chicken for the biryani, combine the vegetable oil, garlic, ginger, chili peppers, mint, cilantro, garam masala, cinnamon and salt in a large bowl and stir together. Add the chicken pieces and toss together making sure the chicken is thoroughly coated in the marinade. Allow the chicken to marinate for at least 1 hour or up to overnight."
+      ]
+    },
+    {
+      "id": 10,
+      "type": "nonveg",
+      "Name": "Chicken tandoori",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo_onETr3aMPQd4ORaj-TSXN7gwH-p5R88xA&usqp=CAU",
+      "Description": "Tandoori chicken is a popular Indian appetizer made with chicken, spices, yogurt and herbs",
+      "Author": "Good Food",
+      "likes": "",
+      "Ingredients": [
+        "6 Chicken quarters (or 10 to 12 drumsticks or thighs)",
+        " ½ cup Greek yogurt",
+        " 4 large Garlic cloves (minced)",
+        " 3 inch Fresh",
+        "ginger (grated)",
+        " 2 tbsp Lemon juice,"
+      ],
+      "Method": [
+        "Heat the oil in a small pan over medium heat, then cook the coriander, cumin, turmeric, cayenne, garam masala and paprika, stirring often, until fragrant (approximately 2-3 minutes). Let cool completely.",
+        "Whisk the cooled spice-oil mixture into the yogurt, then mix in the lemon juice, garlic, salt and ginger.",
+        "Cut deep slashes into chicken, coat with marinade, chill",
+        "Take the chicken out of the marinade and shake   off the excess. You want the chicken coated",
+        "but not gloppy.Put the chicken pieces on the hot side of the grill and cover. Cook 2-3 minutes before checking turn the chicken so it is brown (even a little bit charred) on all sides"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "veg",
+      "Name": "Palak paneer",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjK1Np0TwiZUumL75IBQ8FhWdP2R4eYpZIJw&usqp=CAU",
+      "Description": " Palak paneer is a classic curried dish from North Indian cuisine made with fresh spinach, onions, spices, paneer and herbs. ",
+      "Author": "Palak agarwal",
+      "likes": "",
+      "Ingredients": "palak,salt,paneer,tomatos,onion,chillies,coriender",
+      "Method": [
+        "Using a colander or strainer, rinse the palak (spinach) leaves (250 grams or 0.55 pounds), very well under running water,",
+        "Then add the spinach leaves to the hot water. Let the spinach leaves sit in the water for about 1 minute.",
+        " Make a smooth spinach purée by blitzing the ingredients together. There should be no need to add any water to make the purée. Set the spinach purée aside"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "sweet",
+      "Name": "Rasgulla",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGt50uyTVbfmqjU2or7pk1c5Z7eGWuf_ctAg&usqp=CAU",
+      "Description": "is a syrupy dessert popular in the eastern part of South Asia. It is made from ball-shaped dumplings of chhena dough, cooked in light sugar syrup made of sugar ",
+      "Author": "Swati ahuja",
+      "likes": "",
+      "Ingredients": "sugar,milk,ilaichi,saffron strands",
+      "Method": [
+        "To make rasgulla recipe, milk is curdled and drained of whey to make chenna, which is essentially a fresh cottage cheese.",
+        "  The chenna is then kneaded with some semolina(rava or suji) or all purpose flour (maida). Round balls are made from the kneaded chenna, which are then cooked in sugar syrup. "
+      ]
+    },
+    {
+      "id": 13,
+      "type": "sweet",
+      "Name": "Gulab jamun",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSycBwtlc4wuVREUZe3__mHwPmHgeej3DIutS4686fwYHcyG6NwK6Ze5VzrE1-FeYlpxA0&usqp=CAU",
+      "Description": "Soft, spongy and melt in mouth gulab jamuns drenched in delicately flavored sugar syrup is a traditional sweet in India ",
+      "Author": "Garima",
+      "likes": "",
+      "Ingredients": "sugar,maida,milk,ilaichi,baking soda",
+      "Method": [
+        "Prepare 1 cup mawa by following the recipe given above or use readymade mawa. Crumble it using hand or grate it using a grater. Add 1/8 teaspoon baking soda and 1/2 cup sifted maida",
+        "Divide dough into 16-18 equal parts, grease hands with ghee and make smooth surfaced balls from it",
+        "add balss into sugar syrup"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "juice",
+      "Name": "Mango juice",
+      "url": "data:image/jpeg;base64,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",
+      "Description": "Mangoes are nutrient rich, so obviously it is good to include them in your diet. They are also a rich source of Vitamin A, C and dietary fibre.  ",
+      "Author": "Lulu Grimes",
+      "likes": "",
+      "Ingredients": "mango,sugar,elaychi",
+      "Method": ""
+    },
+    {
+      "id": 15,
+      "type": "nonveg",
+      "Name": "Fish fry",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRewUZMSd3Qo5bWsjJPRv1rLOfSuqPkj_FBVg&usqp=CAU",
+      "Description": "Fish Fry is the easiest starter recipe, which can be prepared without a putting in much effort",
+      "Author": "Kunal Sharma",
+      "likes": "",
+      "Ingredients": [
+        "1 kilograms chopped,washed & dried fish",
+        "3 teaspoon powdered turmeric",
+        "2 teaspoon crushed to paste ginger",
+        "2 teaspoon yoghurt (curd)",
+        " 3 teaspoon salt",
+        "  2 tablespoon garlic paste"
+      ],
+      "Method": [
+        "Begin with washing the fish pieces thoroughly under running water. Pat dry and keep aside in a strainer till the water drains out.",
+        "Take a tray and marinate with yoghurt, garlic paste, ginger paste, turmeric and salt. If you want to make it more spicy and flavoursome, add finely chopped green chilies along with some finely chopped coriander leaves. Although, this will slightly change the traditional fish fry but at the same it will enhance the taste. Add all the ingredients (except oil) to the fish and mix well. Keep aside for half an hour.",
+        "fry the fish and serve hot"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "juice",
+      "Name": "Masala soda",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU5MPIKnAmeXtY-wy7t9bcG4xwAqwMMmi-DUbugoLaQJZmd6C6YAfS3eSBAlr7htRWLSg&usqp=CAU",
+      "Description": " simple and spicy refreshing cool beverage drink to lower the hot temperature during the summer season,",
+      "Author": "Sachin",
+      "likes": "",
+      "Ingredients": "Cumin,lime juice,salt,sugar,mint leaves,ginger",
+      "Method": "take water add lime juice into it add all the ingredients as per taste then and soda into while serving"
+    },
+    {
+      "id": 17,
+      "type": "veg",
+      "Name": "Bhendi fry",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAuWypZH34oSufzh4JzVk71Tnr1kIn47qfDA&usqp=CAU",
+      "Description": "simple,delicious,healthy stir bhendi also known as ladies finger most widely used in indian cusuines. ",
+      "Author": "Vikas khanna",
+      "likes": "",
+      "Ingredients": "Bhendi,oil,salt,chillis,turmeric,onion,tomato,corriender",
+      "Method": "wash the bhendi,cut it into a pieces,then fry the bhendi,take 3 spoons oil in a pan add oninon,tomato,chillis in it and add fried bhendies,let it cook for 15 min and here the bhendi is ready"
+    },
+    {
+      "type": "veg",
+      "Name": "Chitranna",
+      "url": "data:image/jpeg;base64,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",
+      "Description": "simple,delicious,healthy stir bhendi also known as ladies finger most widely used in indian cusuines",
+      "Author": "RAM",
+      "Ingredients": "Rice",
+      "Method": "jbdscbjdjbwefj",
+      "id": 18
+    },
+    {
+      "type": "veg",
+      "Name": "Tomota palya",
+      "url": "https://th.bing.com/th?id=OIP.rNRHZuGAYOeQ1EjzR-xWIgHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
+      "Description": "tomoto",
+      "Author": "rama",
+      "Ingredients": "tomoto",
+      "Method": "piece tomoto",
+      "id": 19
+    }
+  ]
+}
